@@ -1,2 +1,2 @@
 # Sizesable
-A browser extension tool for testing and developing responsive websites in mobile sized windows.
+A browser extension for testing and developing responsive websites in windows that simulate Safari windows on iOS.
