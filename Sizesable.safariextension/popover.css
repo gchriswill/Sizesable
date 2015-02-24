@@ -1,0 +1,112 @@
+/*
+	Created by Christopher Gonzalez D.K.A. "gchriswill"
+	
+	This file contains the CSS styling rules for the popover view of the
+	
+	
+*/
+
+body,h3, div, label, input, button {
+	
+	margin: 0;
+	padding: 0;
+	
+}
+
+body {
+	
+	color: #555;
+	background-color: transparent;
+	
+}
+
+div#root-container {
+	
+	color: #555;
+	background-color: transparent;
+	width: 200px;
+	height: 300px;
+	margin: 5px;
+	text-align: center;
+	
+}
+
+#titelExt {
+	
+	color: #555;
+	background-color: transparent;
+	font-size: 18px;
+	font-style: oblique;
+	
+}
+
+div#textfield-container {
+	
+	color: #cecece;
+	background-color: #555;
+	text-shadow: 0 -1px 0 #000;
+	background: linear-gradient(#777, #555);
+	margin: 0px 0px 10px 0px;
+	border-radius: 3px;
+	text-align: center;
+	box-shadow:  0px 2px 8px 1px rgba(0,0,0,0.4);
+	
+}
+
+div#textfield-container > label {
+	
+	font-style: oblique;
+	font-size: 14px;
+	
+}
+
+div#textfield-container > input {
+
+	border-top-style: none;
+	border-left-style: none;
+	border-right-style: none;
+	border-bottom-style: inset;
+	border-radius: 0px 0px 2px 2px;
+	text-align: center;
+	width: 100%;
+	height: 18px;
+	
+}
+
+div#buttons-container {
+	
+	width: 100%;
+	margin: 0px;
+	padding: 0px;
+	
+}
+
+div#buttons-container > label {
+	
+	color: #555;
+	background-color: transparent;
+	font-size: 14px;
+	font-weight: 600;
+	font-style: oblique;
+	
+	
+}
+
+div#buttons-container > button {
+	
+	width: 100%;
+    padding: 2px 0px 2px 0px;  
+    margin-bottom: 8px;
+    color: #cecece;
+    background-color: #555;
+    background: linear-gradient(#888, #555);
+    border: 0 none;
+    border-radius: 3px;
+    text-shadow: 0 -1px 0 #000;
+    box-shadow: 0 1px 0 #666, 0 5px 0 #444, 0 4px 6px 1px rgba(0,0,0,0.6);
+    cursor:pointer;
+    
+}
+
+
+

@@ -1,0 +1,23 @@
+<!DOCTYPE HTML>
+
+<html>
+
+	<head>
+	
+	<title>global HTML page</title>
+	
+	<script type="text/javascript">
+		
+	
+		function testingFunc(passedData) {
+			
+			safari.application.activeBrowserWindow.activeTab.page.dispatchMessage(passedData.eID, passedData);
+			
+		}
+		
+	</script>
+	
+	</head>
+	<body>
+	</body>
+</html>

@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+	
+	<head>
+		
+		<meta charset="utf-8">
+		<link rel="stylesheet" type="text/css" href="popover.css">
+		<title>MoeM</title>
+	
+	</head>
+	
+	<body>
+		
+		<div id="root-container">
+		
+			<h3 id="titelExt">Sizesable</h3>
+			
+			<div id="textfield-container">
+	
+				<label for="URLfield">URL Address</label>
+				<input id="URLfield" type="url" name="URLField" placeholder="Web or file address">
+			
+			</div>
+			
+			<div id="buttons-container">
+				
+				<label>iOS Window Models</label>
+				
+				<button type="button" onclick="iPhone_Window({'index': 0, 'eID': 'iphoneWindow', 'width': 320, 'height' : 480 })">iPhone 4/4s</button>
+				<button type="button" onclick="iPhone_Window({'index': 1, 'eID': 'iphoneWindow', 'width': 480, 'height' : 320 })">iPhone 4/4s Landscape</button>
+				<button type="button" onclick="iPhone_Window({'index': 2, 'eID': 'iphoneWindow', 'width': 320, 'height' : 568 })">iPhone 5/5c/5s</button>
+				<button type="button" onclick="iPhone_Window({'index': 3, 'eID': 'iphoneWindow', 'width': 568, 'height' : 320 })">iPhone 5/5c/5s Landscape</button>
+				<button type="button" onclick="iPhone_Window({'index': 4, 'eID': 'iphoneWindow', 'width': 375, 'height' : 667 })">iPhone 6</button>
+				<button type="button" onclick="iPhone_Window({'index': 5, 'eID': 'iphoneWindow', 'width': 667, 'height' : 375 })">iPhone 6 Landscape</button>
+				<button type="button" onclick="iPhone_Window({'index': 6, 'eID': 'iphoneWindow', 'width': 540, 'height' : 960 })">iPhone 6 Plus</button>
+				<button type="button" onclick="iPhone_Window({'index': 7, 'eID': 'iphoneWindow', 'width': 960, 'height' : 540 })">iPhone 6 Plus landscape</button>
+				
+			</div>
+		
+		</div>
+	  
+		<script type="text/javascript" src="popover.js"></script>
+		
+	</body>
+	
+</html>
