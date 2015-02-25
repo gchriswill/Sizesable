@@ -1,4 +1,4 @@
-![Sizesable](/Sizesable.safariextension/icon-64.png)
+![Sizesable](/Sizesable.safariextension/icon-128.png)![Sizesable](/Sizesable.safariextension/icon-96.png) ![Sizesable](/Sizesable.safariextension/icon-64.png)![Sizesable](/Sizesable.safariextension/icon-48.png)![Sizesable](/Sizesable.safariextension/icon-32.png)
 
 # Sizesable
 
