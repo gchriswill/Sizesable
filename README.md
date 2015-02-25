@@ -83,6 +83,8 @@ Want to contribute to this project? There are several ways:
 
 Please review the licencing terms before contributing to this project which can be found in the root directory of the project repository. [Project's License](https://github.com/gchriswill/Sizesable/blob/master/LICENSE)
 
+For inqueries about this project's license please :e-mail: : [gchriswill@me.com](mailto:gchriswill@me.com)
+
 ---
 
 With :heart: from [@gchriswill](https://twitter.com/gchriswill) ... Enjoy! :thumbsup:
