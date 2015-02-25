@@ -2,7 +2,7 @@
 
 # Sizesable
 
-| Available Platforms | Download link |
+| Available Platforms | Download links |
 | :------------ | :---------------: |
 | Sizesable for Safari | [DOWNLOAD](https://github.com/gchriswill/Sizesable/blob/master/Sizesable.safariextz?raw=true) |
 | Sizesable for FireFox | WORKING! |
