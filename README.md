@@ -53,6 +53,7 @@ Here is a task list for the current Safari extension:
 | Contributors | D.K.A. | Website | GitHub Profile  | Twitter Profile |
 | :--------------- | :---------------: | :---------------: | :---------------: | :---------------: |
 | Christopher Gonzalez | gchriswill | [:globe_with_meridians:](http://www.gchriswill.me) |[:octocat:](https://github.com/gchriswill) | [@gchriswill](https://twitter.com/gchriswill) |
+| David Amalfitano | djamalfitano | [:globe_with_meridians:](http://www.djamalfitano.me) |[:octocat:](https://github.com/djamalfitano) | [@DavidAmalfitano](https://twitter.com/@DavidAmalfitano) |
 
 Want to contribute to this project? There are several ways:
 
