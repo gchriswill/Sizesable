@@ -13,12 +13,12 @@
 ---
 ### Summary:
 
-A :globe_with_meridians: browser extension for testing and developing responsive websites in windows that simulate Safari windows on iOS.
+:globe_with_meridians: A Safari browser extension for testing and developing responsive layouts that simulate the plethera of iOS screen sizes.
 
 ---
 
 ### Story
-Sizesable was made from a responsive website project wich was in need for a technique to have several windows open at specific windows sizes. This specific windows sizes were the sizes of all most recent iOS devices screen sizes. From there, it was discovered that this is a need for web designers/developers in order to simplify their work.
+Sizesable was created due to the developer's need while working on a responsive website project that required several windows open with specific windows sizes. Sizesable's purpose is to allow the display of a multitude of popular iOS device screen sizes, each within their own, indiviual window. It is believed that this is a need for web designers/developers in order to simplify their work.
 
 The Sizesable project and Safari's Sizesable Extension v1.0 was created by Christopher Gonzalez D.K.A. [@gchriswill](https://twitter.com/gchriswill)
 
