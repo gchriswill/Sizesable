@@ -24,7 +24,7 @@ The Sizesable project and Safari's Sizesable Extension v1.0 was created by Chris
 
 Please, :point_right: [__CREATE AN ISSUE__](https://github.com/gchriswill/Sizesable/issues) for feature requests, bugs, improvements and recommendations. 
 
-Any other inqueries please :e-mail: : [gchriswill@me.com](mailto:gchriswill@me.com)
+Any other inqueries please message me at: [@gchriswill](https://twitter.com/gchriswill)
 
 ---
 
